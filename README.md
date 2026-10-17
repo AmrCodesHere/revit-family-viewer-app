@@ -8,7 +8,9 @@ Open Revit families (`.rfa`) in 3D in your browser, without Revit and without up
 **Or download** `RevitFamilyViewer.html` from [Releases](https://github.com/AmrCodesHere/revit-family-viewer-app/releases/latest).
 It is a single file of about 3 MB, opens from disk and works offline.
 
-Drop families or whole folders on the page, or use **Open files** / **Open folder**.
+Drop families or whole folders on the page, or use **Open files** / **Open folder**. A folder opens
+in a simple browser (path bar, subfolder tiles); families show their preview and types straight
+away, and their 3D is read when you open one, so even a whole library opens in a second.
 
 ## Your files stay on your computer
 Families are read inside the browser tab. Nothing is uploaded, and the page makes no network

@@ -17,6 +17,9 @@ requests, whether you open it from the website or from the downloaded file.
 ## What it shows
 - **3D** from the graphics Revit saved in the family, for files saved in **Revit 2024 or later**.
   Coarse, Medium or Fine, as the family shows once placed in a project.
+- **Navigation as in Revit**: the wheel zooms toward the cursor, wheel-drag pans, Shift + wheel-drag
+  (or left-drag) orbits around the point under the cursor, and double-click fits the model. ViewCube
+  with Home, orthographic view with a Perspective switch, and full screen.
 - **Visual styles** as in Revit: Wireframe, Hidden Line, Shaded and Consistent Colors.
 - **Types and parameters**, and a table comparing the types.
 - Each card says what you get: **Saved 3D**, **Partial 3D · n%**, **Preview only**, or why a file
